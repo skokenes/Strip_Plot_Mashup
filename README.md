@@ -10,6 +10,6 @@ Copy the "Strip_Plot" folder into the Qlik Sense Extension directory ("Qlik>Sens
 
 Navigate to "http://localhost:**YOUR PORT**/extensions/Strip_Plot/Strip_Plot.html". For me, the port is 4848. I have no clue if this is the same across Qlik Sense installations. It should be the same port that the Qlik Sense Hub runs on.
 
-You can view an example of the visualization, without the Qlik integration, ["here."](http://http://blog.axc.net/examples/Strip_Plot/Strip_Plot.html)
+You can view an example of the visualization, without the Qlik integration, [here.](http://http://blog.axc.net/examples/Strip_Plot/Strip_Plot.html)
 
 ![Visualization](http://blog.axc.net/examples/Strip_Plot/Solution.png)
