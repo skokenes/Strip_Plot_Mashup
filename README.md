@@ -10,4 +10,4 @@ Navigate to "http://localhost:*YOUR PORT*/extensions/Strip_Plot/Strip_Plot.html"
 
 You can view an example of the visualization, without the Qlik integration, ["here."](http://http://blog.axc.net/examples/Strip_Plot/Strip_Plot.html)
 
-![Visualization](http://http://blog.axc.net/examples/Strip_Plot/Solution.png)
+![Visualization](http://blog.axc.net/examples/Strip_Plot/Solution.png)
