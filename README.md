@@ -4,7 +4,9 @@ This mashup combines a custom d3 visualization on a webpage with Qlik Sense comp
 
 **To Deploy:**
 
-Copy the "Strip_Plot" folder into the Qlik Sense Extension directory ("Qlik>Sense>Extensions").
+1) Copy the "Strip_Plot" folder into the Qlik Sense Extension directory ("Qlik>Sense>Extensions").
+2) Copy the "Strip Plot Example.qvf" file from the "app" folder into your Qlik Sense app directory ("Qlik>Sense>Apps").
+
 
 **To View Locally:**
 
