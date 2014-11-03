@@ -16,7 +16,7 @@ require.config( {
 	baseUrl: ( config.isSecure ? "https://" : "http://" ) + config.host + (config.port ? ":" + config.port: "") + config.prefix + "resources"
 } );
 
-require( ["js/qlikview","../extensions/Strip_Plot/d3.min"], function ( qlikview ) {
+require( ["js/qlik","../extensions/Strip_Plot/d3.min"], function ( qlikview ) {
 	var qvobjects = {};
 	qlikview.setOnError( function ( error ) {
 		alert( error.message );
